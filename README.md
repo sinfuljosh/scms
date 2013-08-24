@@ -1,0 +1,4 @@
+smcs
+====
+
+Smarty Small CMS
